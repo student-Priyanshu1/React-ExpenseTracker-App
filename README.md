@@ -25,20 +25,6 @@ The application stores data in **Local Storage**, so transactions remain saved e
 - Tailwind CSS
 - Local Storage API
 
----
-
-## 📸 Screenshots
-
-_Add screenshots of your project here_
-
-Example:
-
-```md
-![Expense Tracker Screenshot](./screenshot.png)
-```
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -59,13 +45,14 @@ src
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/student-Priyanshu1/React-ExpenseTracker-App.git
+
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd expense-tracker
+cd React-Project
 ```
 
 Install dependencies:
@@ -92,6 +79,7 @@ This project helped practice:
 - Array methods (`map`, `filter`, `reduce`)
 - Local Storage integration
 - Dark mode UI implementation
+- Delete Confirmation Popup
 
 ---
 
@@ -103,6 +91,10 @@ This project helped practice:
 - 📱 Fully responsive mobile layout  
 
 ---
+
+## 🚀 Live Demo
+
+
 
 ## 📄 License
 
